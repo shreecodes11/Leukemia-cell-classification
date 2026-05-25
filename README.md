@@ -85,7 +85,7 @@ The model’s accuracy and loss were monitored across epochs to evaluate learnin
 Grad-CAM is used to visualize which regions of the image influence the model's predictions.
 
 ### Example Output:
-![Grad-CAM Output](gradcam_outputs/sample_gradcam.png)
+![Grad-CAM Output](sample_gradcam.png)
 
 ---
 
